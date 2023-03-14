@@ -1,6 +1,9 @@
 # AC Machine Learning
 Algonquin College Machine Learning Project
 
+# Instructor
+[Swapnil Kangralkar](https://github.com/swapnilin)
+
 #  Project Description
 In this project, we aim to analyze diabetes data and address some important business problems/questions.
 
@@ -29,4 +32,4 @@ Below is the attribute information:
 # Project Insights
 
 - We use multiple functions to explore and modify the dataset.
-- We trained the dataset by *Logistic Regression Model* and *Random Forest Model*, *Random Forest Model* has the better accuracy than *Logistic Regression Model*.
+- We trained the dataset by ***Logistic Regression Model*** and ***Random Forest Model***, ***Random Forest Model*** has the better accuracy than ***Logistic Regression Model***.
