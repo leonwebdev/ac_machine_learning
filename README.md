@@ -1,4 +1,4 @@
-# ac_machine_learning
+# AC Machine Learning
 Algonquin College Machine Learning Project
 
 #  Project Description
@@ -25,3 +25,8 @@ Below is the attribute information:
 - DiabetesPedigreeFunction: A function that scores likelihood of diabetes based on family history
 - Age: Age in years
 - Outcome: Class variable (0: the person is not diabetic or 1: the person is diabetic)
+
+# Project Insights
+
+- We use multiple functions to explore and modify the dataset.
+- We trained the dataset by *Logistic Regression Model* and *Random Forest Model*, *Random Forest Model* has the better accuracy than *Logistic Regression Model*.
